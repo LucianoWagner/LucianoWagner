@@ -35,7 +35,7 @@
 <p align="center">
 <a href="https://www.linkedin.com/in/luciano-wagner-8310612a2/"><img src="https://img.shields.io/badge/-Luciano%20Wagner-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:luciano2004wagner@gmail.com"><img src="https://img.shields.io/badge/-luciano2004wagner-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://www.instagram.com/lucho.wagner24/"><img src="https://img.shields.io/badge/-@lucho.wagner24E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+<a href="https://www.instagram.com/lucho.wagner24/"><img src="https://img.shields.io/badge/-@lucho.wagner24-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 </p>
 
 <!-- [🇱​🇮​🇳​🇰​🇪​🇩​🇮​🇳​](https://www.linkedin.com/in/absphreak/) ● [🇮​🇳​🇸​🇹​🇦​🇬​🇷​🇦​🇲​](https://www.instagram.com/absphreak/) ● [🇫​🇦​🇨​🇪​🇧​🇴​🇴​🇰​](https://www.facebook.com/originalphreak/) ● [🇸​🇵​🇴​🇹​🇮​🇫​🇾​](https://open.spotify.com/user/0170agi99s5hh187g7mtz245b) -->
