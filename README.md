@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Luciano Wagner</h1>
 
-
+<h3 align="center">I'm a diligent student pursuing a Bachelor's degree in Systems with a proficient understanding of programming, spanning across backend and frontend development, as well as database management.</h3>
 
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
