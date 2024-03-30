@@ -29,14 +29,14 @@
 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=LucianoWagner&theme=dark" alt="LucianoWagner" /></p>
 <br><br><br><br><br><br><br><br><br><br>
-<hr width="60%" >
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://stackoverflow.com/users/21304875" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="21304875" height="30" width="40" /></a>
-<a href="https://instagram.com/anii_akhil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anii_akhil" height="30" width="40" /></a>
+
+### 🤝🏻 &nbsp;Connect with Me
+
+<p align="center">
+<a href="https://www.linkedin.com/in/luciano-wagner-8310612a2/"><img src="https://img.shields.io/badge/-Luciano%20Wagner-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:luciano2004wagner@gmail.com"><img src="https://img.shields.io/badge/-luciano2004wagner@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://www.instagram.com/lucho.wagner24/"><img src="https://img.shields.io/badge/-@lucho.wagner24E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 </p>
-<br>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=LucianoWagner&label=Profile%20views&color=0e75b6&style=flat" alt="LucianoWagner" /> </p>
 
 <!-- [🇱​🇮​🇳​🇰​🇪​🇩​🇮​🇳​](https://www.linkedin.com/in/absphreak/) ● [🇮​🇳​🇸​🇹​🇦​🇬​🇷​🇦​🇲​](https://www.instagram.com/absphreak/) ● [🇫​🇦​🇨​🇪​🇧​🇴​🇴​🇰​](https://www.facebook.com/originalphreak/) ● [🇸​🇵​🇴​🇹​🇮​🇫​🇾​](https://open.spotify.com/user/0170agi99s5hh187g7mtz245b) -->
 
