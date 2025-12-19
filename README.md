@@ -22,11 +22,13 @@ I am a **Graduate Programmer Analyst** from the **University of La Plata (UNLP)*
 - 🎓 **Degree:** Graduate Programmer Analyst (UNLP)
 - 📚 **Status:** 5th Year - Bachelor of Systems @ UNLP
 - ⚙️ **Focus:** Distributed Systems, API Orchestration, and Business Process Management (BPM).
-- 🌍 **Language:** Spanish (native), English (Intermediate Proficiency).
+- 🌍 **Language:** Spanish (Native), English (Intermediate Proficiency).
 
 ---
 
-### 🛠️ Featured Architecture: ProjectPlanning Ecosystem
+### 🧪 Key Academic & Institutional Projects
+
+#### ⚙️ [ProjectPlanning Ecosystem](https://github.com/LucianoWagner/...)
 A comprehensive distributed system designed with a four-layer architecture to handle complex business workflows and data persistence.
 
 | Component | Responsibility | Tech Stack |
@@ -36,7 +38,15 @@ A comprehensive distributed system designed with a four-layer architecture to ha
 | **[Cloud API]** | Async Data Persistence | FastAPI, PostgreSQL, SQLAlchemy |
 | **[BPM Engine]** | Business Logic & Workflow Rules | Bonita BPM, Java, BDM |
 
-> *Note: Click on the components above to visit their respective repositories (replace the brackets with your links).*
+---
+
+#### 🐎 [CEDICA Management System](https://github.com/LucianoWagner/CedicaProject)
+A professional full-stack ecosystem developed for the **CEDICA** institution to digitize equine therapy (TACAs) workflows.
+
+- **Admin Module:** Robust management of medical dossiers, staff, and equestrian records using **Flask** and **PostgreSQL**.
+- **Public Portal:** Interactive community interface built with **Vue.js 3** and integrated via a custom **REST API**.
+- **Security:** Advanced **RBAC** (Role-Based Access Control) and **Google OAuth 2.0** integration.
+- **Storage:** Secure document handling using **MinIO Object Storage**.
 
 ---
 
