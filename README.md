@@ -17,11 +17,11 @@
 
 ### 🚀 Summary
 
-I am a **Graduate Programmer Analyst** from the **University of La Plata (UNLP)**, currently finishing my final year of the **Bachelor’s degree in Systems**. I specialize in developing scalable distributed architectures, with a strong focus on backend orchestration and modern frontend frameworks. 
+I am a **Graduate Programmer Analyst** from the **University of La Plata (UNLP)**, currently finishing my final year of the **Bachelor’s degree in Systems**. I specialize in developing scalable distributed architectures and modern full-stack systems, with additional academic experience in **Artificial Intelligence and Deep Learning**.
 
 - 🎓 **Degree:** Graduate Programmer Analyst (UNLP)
 - 📚 **Status:** 5th Year - Bachelor of Systems @ UNLP
-- ⚙️ **Focus:** Distributed Systems, API Orchestration, and Business Process Management (BPM).
+- ⚙️ **Focus:** Distributed Systems, API Orchestration, and Neural Network Foundations.
 - 🌍 **Language:** Spanish (Native), English (Intermediate Proficiency).
 
 ---
@@ -45,8 +45,15 @@ A professional full-stack ecosystem developed for the **CEDICA** institution to 
 
 - **Admin Module:** Robust management of medical dossiers, staff, and equestrian records using **Flask** and **PostgreSQL**.
 - **Public Portal:** Interactive community interface built with **Vue.js 3** and integrated via a custom **REST API**.
-- **Security:** Advanced **RBAC** (Role-Based Access Control) and **Google OAuth 2.0** integration.
-- **Storage:** Secure document handling using **MinIO Object Storage**.
+- **Security:** Advanced **RBAC** and **Google OAuth 2.0** integration.
+
+---
+
+#### 🧠 [Deep Learning Coursework](https://github.com/LucianoWagner/TU_REPO_DEEP_LEARNING)
+A centralized repository of my academic journey into **Neural Networks**.
+- **Practical Labs:** Implementation of Perceptrons, MLPs, and CNNs.
+- **Theoretical Base:** In-depth studies on Backpropagation, Hyperparameter tuning, and Computer Vision.
+- **Resources:** Comprehensive lecture notes and solved assessments from the UNLP curriculum.
 
 ---
 
@@ -67,8 +74,8 @@ A professional full-stack ecosystem developed for the **CEDICA** institution to 
       <br>Next.js
     </td>
     <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript" />
-      <br>TypeScript
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="40" height="40" alt="Tensorflow" />
+      <br>TensorFlow
     </td>
     <td align="center" width="96">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40" alt="Java" />
@@ -93,8 +100,8 @@ A professional full-stack ecosystem developed for the **CEDICA** institution to 
       <br>Linux
     </td>
     <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" width="40" height="40" alt="Tailwind" />
-      <br>Tailwind
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript" />
+      <br>TypeScript
     </td>
   </tr>
 </table>
