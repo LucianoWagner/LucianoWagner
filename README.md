@@ -22,7 +22,7 @@ I am a **Graduate Programmer Analyst** from the **University of La Plata (UNLP)*
 - 🎓 **Degree:** Graduate Programmer Analyst (UNLP)
 - 📚 **Status:** 5th Year - Bachelor of Systems @ UNLP
 - ⚙️ **Focus:** Distributed Systems, API Orchestration, and Business Process Management (BPM).
-- 🌍 **Language:** English (Intermediate Proficiency).
+- 🌍 **Language:** Spanish (native), English (Intermediate Proficiency).
 
 ---
 
