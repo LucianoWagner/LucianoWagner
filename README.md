@@ -17,16 +17,17 @@
 
 ### 🚀 Summary
 
-I am a **Graduate Programmer Analyst** from the **University of La Plata (UNLP)**, currently finishing my final year of the **Bachelor’s degree in Systems**. I specialize in developing scalable distributed architectures and modern full-stack systems, with additional academic experience in **Artificial Intelligence and Deep Learning**.
+I am a **Graduate Programmer Analyst** from the **University of La Plata (UNLP)**, currently in my final year of the **Bachelor’s degree in Systems**. I focus on building scalable distributed architectures and full-stack solutions, backed by a strong academic foundation in modern computing and AI.
 
 - 🎓 **Degree:** Graduate Programmer Analyst (UNLP)
 - 📚 **Status:** 5th Year - Bachelor of Systems @ UNLP
-- ⚙️ **Focus:** Distributed Systems, API Orchestration, and Neural Network Foundations.
+- ⚙️ **Core Focus:** Distributed Systems, API Orchestration, and System Design.
 - 🌍 **Language:** Spanish (Native), English (Intermediate Proficiency).
 
 ---
 
-### 🧪 Key Academic & Institutional Projects
+### 🧪 Selected Highlighted Projects
+*A showcase of some key projects developed during my academic and professional journey.*
 
 #### ⚙️ [ProjectPlanning Ecosystem](https://github.com/LucianoWagner/...)
 A comprehensive distributed system designed with a four-layer architecture to handle complex business workflows and data persistence.
@@ -49,11 +50,14 @@ A professional full-stack ecosystem developed for the **CEDICA** institution to 
 
 ---
 
-#### 🧠 [Deep Learning Coursework](https://github.com/LucianoWagner/TU_REPO_DEEP_LEARNING)
-A centralized repository of my academic journey into **Neural Networks**.
-- **Practical Labs:** Implementation of Perceptrons, MLPs, and CNNs.
-- **Theoretical Base:** In-depth studies on Backpropagation, Hyperparameter tuning, and Computer Vision.
-- **Resources:** Comprehensive lecture notes and solved assessments from the UNLP curriculum.
+### 🧠 Academic Foundations & Knowledge Base
+*Centralized repositories containing foundational studies, research, and coursework.*
+
+#### 🔬 [Deep Learning Foundations](https://github.com/LucianoWagner/TU_REPO_DEEP_LEARNING)
+A comprehensive knowledge base covering the core pillars of Neural Networks.
+- **Foundational Labs:** Practical implementation of Perceptrons, MLPs, and basic CNNs.
+- **Core Theory:** Documented studies on Backpropagation, Hyperparameter tuning, and Optimization.
+- **Academic Resources:** Solved assessments and lecture notes from the UNLP Deep Learning curriculum.
 
 ---
 
